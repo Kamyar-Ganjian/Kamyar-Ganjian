@@ -1,39 +1,52 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kamyar Ganjian
 
-**Frontend Engineer · React · Next.js · TypeScript**
+**Full-Stack Software Engineer · AI & Machine Learning Enthusiast**
 
-I'm a software engineer who enjoys building reliable, user-focused web applications and solving real-world engineering problems. I currently work on production ERP systems used across multiple business operations, while pursuing a Master's degree in Artificial Intelligence.
+I'm a software engineer passionate about building scalable applications, solving real-world problems, and exploring the intersection of software engineering and artificial intelligence. I work with modern web technologies, contribute to production systems, and pursue a Master's degree in Artificial Intelligence.
 
-* 💻 Building production web applications with React, Next.js, and TypeScript.
-* 🏗️ Working on scalable frontend architecture, reusable packages, and multi-application systems.
-* 🔌 Integrating software with real-world industrial systems and hardware.
-* 🤖 Exploring Artificial Intelligence and Machine Learning.
-* 🌱 Always learning, experimenting, and building things that solve real problems.
+* 💻 Building full-stack web applications with modern technologies.
+* ⚛️ Developing scalable, maintainable frontend architectures with React, Next.js, and TypeScript.
+* 🔧 Working with APIs, databases, backend technologies, and software integrations.
+* 🤖 Exploring Artificial Intelligence, Machine Learning, and intelligent applications.
+* 🏗️ Interested in system architecture, developer tooling, automation, and open-source software.
+* 🌱 Always learning, experimenting, and building.
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-* **[CV Builder](https://github.com/Kamyar-Ganjian/cv-builder)** — An open-source resume builder focused on ATS compatibility, job-description matching, and recruiter-friendly PDFs.
-* **[Keevo](https://vault-keevo.vercel.app)** — A secure vault for organizing credentials, servers, domains, licenses, and technical notes.
-* **[Portfolio](https://kamyar-ganjian-portfolio.vercel.app)** — My portfolio, projects, and engineering journey.
+* **[CV Builder](https://github.com/Kamyar-Ganjian/cv-builder)** — An open-source resume builder with ATS analysis, job-description matching, and recruiter-friendly exports.
+* **[Keevo](https://vault-keevo.vercel.app)** — A vault for managing credentials, servers, domains, licenses, and technical notes.
+* **[Portfolio](https://kamyar-ganjian-portfolio.vercel.app)** — My portfolio and a showcase of my work.
 
 ## 🛠️ Tools, Technologies & Languages
 
-**Frontend**
+**Frontend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui" />
 </p>
 
-**Backend & Data**
+**Backend Development & Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,python,postgres,prisma" />
 </p>
 
-**Tools & Infrastructure**
+**AI & Machine Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,rider" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+**DevOps, Infrastructure & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,vscode,rider" />
+</p>
+
+**Other Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,redux,graphql,redis" />
 </p>
 
 ## 📊 GitHub Stats
@@ -51,4 +64,4 @@ I'm a software engineer who enjoys building reliable, user-focused web applicati
 
 ---
 
-*Building, learning, and getting better one commit at a time.*
+*Building software, exploring intelligence, and learning something new every day.*
