@@ -51,13 +51,6 @@ I'm a software engineer passionate about building scalable applications, solving
   <img src="https://skillicons.dev/icons?i=npm,redux,graphql,redis" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamyar-Ganjian&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamyar-Ganjian&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
 ## 📫 Connect With Me
 
 * 🌐 [Portfolio](https://kamyar-ganjian-portfolio.vercel.app)
