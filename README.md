@@ -11,11 +11,13 @@ I'm a software engineer passionate about building scalable applications, solving
 * 🏗️ Interested in system architecture, developer tooling, automation, and open-source software.
 * 🌱 Always learning, experimenting, and building.
 
+<!--
 ## 🚀 Featured Projects
 
 * **[CV Builder](https://github.com/Kamyar-Ganjian/cv-builder)** — An open-source resume builder with ATS analysis, job-description matching, and recruiter-friendly exports.
 * **[Keevo](https://vault-keevo.vercel.app)** — A vault for managing credentials, servers, domains, licenses, and technical notes.
 * **[Portfolio](https://kamyar-ganjian-portfolio.vercel.app)** — My portfolio and a showcase of my work.
+-->
 
 ## 🛠️ Tools, Technologies & Languages
 
